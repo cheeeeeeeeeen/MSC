@@ -1,0 +1,6 @@
+[submodule "MSC Engine"]
+	path = MSC Engine
+	url = https://github.com/cheeeeeeeeeen/MSC-Engine.git
+[submodule "MSC Lore"]
+	path = MSC Lore
+	url = https://github.com/cheeeeeeeeeen/MSC-Lore.git
