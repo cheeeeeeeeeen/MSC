@@ -4,3 +4,6 @@
 [submodule "MSC Lore"]
 	path = MSC Lore
 	url = https://github.com/cheeeeeeeeeen/MSC-Lore.git
+[submodule "MSC UI"]
+	path = MSC UI
+	url = https://github.com/cheeeeeeeeeen/MSC-UI.git
